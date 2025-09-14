@@ -21,8 +21,8 @@ Built using  and .
 1. Clone the repository or download the script:
 
    ```bash
-   git clone https://github.com/shrishti-ts/office-file-cracker.git
-   cd office-file-cracker
+   git clone https://github.com/shrishti-ts/Office_File_Cracker.git
+   cd Office_File_Cracker
    ```
 
 2. Install dependencies:
